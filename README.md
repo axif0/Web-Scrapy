@@ -205,7 +205,4 @@ task/
 **Name:** Md Asiful Alam 
 **Email:** muhamadasif570@gmail.com
 
----
-
-**Note:** This scraper is designed for educational purposes and follows responsible web scraping practices. Always respect website terms of service and robots.txt rules when scraping.
-
+ 
