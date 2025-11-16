@@ -17,6 +17,8 @@ The scraper extracts the following fields for each book:
 5. **Product Page URL** - Link to the book's detail page
 6. **Image URL** - URL of the book's cover image
 
+![task](https://github.com/user-attachments/assets/636fc631-39d5-400e-b3a8-e10cb6168858)
+
 ## Total Records Collected
 
 The scraper is configured to collect a minimum of **500 book records**. The website contains 1000 books total (20 books per page across 50 pages).
